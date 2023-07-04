@@ -15,7 +15,7 @@ This project is a web-based application that utilizes face recognition(openCV) t
 
 The Face Recognition Website is developed using the following technologies:
 
-- **Face Recognition API:** Libraries such as OpenCV, dlib, or face_recognition are used to implement the face detection and recognition functionality.
+- **Face Recognition API:** Libraries such as OpenCV, dlib , numpy , face_recognition are used to implement the face detection and recognition functionality.
 
 ## Usage
 
