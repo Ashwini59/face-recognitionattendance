@@ -23,7 +23,7 @@ The Face Recognition Website is developed using the following technologies:
 
 2. The website will detect and recognize faces in the uploaded/captured image and provide the results.
 
-3. MMark your attendance in sheet.
+3. Mark your attendance in sheet.
 
 ## Conclusion
 
